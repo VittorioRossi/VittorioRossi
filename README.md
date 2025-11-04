@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Vittorio. I'm an MSc AI student at Bocconi University  focused on building the next generation of "solid & real" AI. My philosophy is that the next paradigm shift will come from breakthroughs in model efficiency and memory. I'm not just chasing benchmarks; I'm building tools that solve real-world, industrial-scale problems.<br><br><br> 
+Hi, I'm Vittorio. I'm an MSc AI student at Bocconi University  focused on building the next generation of "solid & real" AI. My philosophy is that the next paradigm shift will come from breakthroughs in model efficiency and memory. I'm not just chasing benchmarks; I'm building tools that solve real-world, industrial-scale problems.<br>
 - 🚀 My Research: I'm the lead author of "More Efficient Text Diffusion via Length Prediction" , a manuscript in preparation that introduces a novel, efficient inference technique for diffusion LLMs.
 - 🛠️ My "Builder" Project: I created and open-sourced CodeGraph , a full-stack tool (React, FastAPI, Neo4j) that bridges LLMs with complex codebases by structuring them into a queryable knowledge graph.
 - 💡 My Core Interest: My thesis and work (like at Commerce Clarity ) are focused on proving that small, domain-specialized models (SLMs) can achieve state-of-the-art performance on vertical tasks with a fraction of the compute cost of generalist models.
